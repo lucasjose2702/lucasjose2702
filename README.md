@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Dev
 - 💞️ I’m looking to collaborate on best possible solution
 
-- 📫 How to reach me: Pip package installer , from Python 
+- 📫 How to reach me: Gmail = lucasjoserodriguesferreira@gmail.com / 21971409830 🇧🇷
 
 <!---
 lucasjose2702/lucasjose2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
