@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasjose2702
-- 👀 I’m interested in look
+- 👀 I'm interested in learning
 - 🌱 I’m currently learning Dev
 - 💞️ I’m looking to collaborate on best possible solution
 
