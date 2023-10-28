@@ -1,6 +1,15 @@
 - 👋 Hi, I’m @lucasjose2702
-- 👀 I'm interested in learning
-- 🌱 I’m currently learning Dev
+- 👀 Desenvolvedor Júnior apaixonado por tecnologia e programação. Comprometido em aprender, crescer e contribuir para projetos de código aberto. Sempre buscando novos desafios e oportunidades de aprendizado.
+
+- 🌱 . HABILIDADES
+. Conhecimento em HTML5/ CSS3
+. JavaScript (Básico)
+. MYSQL (Estudando Diariamente)
+. Wordpress(Básico)
+. Excel e automação de tarefas
+. C# e ASP.NET (Estudando Diariamente)
+. Sistema Operacionais: Windows, Linux (Usando atualmente | Unity version = 23.04), IOS (Básico).
+
 - 💞️ I’m looking to collaborate on best possible solution
 
 - 📫 How to reach me: Gmail = lucasjoserodriguesferreira@gmail.com / 21971409830 🇧🇷
