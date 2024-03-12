@@ -10,7 +10,7 @@
  Excel, Google sheets e automação de tarefas com python<br> 
 . Sistema Operacionais: Windows, Linux (Usando atualmente | Unity version = 23.04), IOS (Básico).<br>
 
-- 📫 Como me contatar: Gmail = lucasjoserodriguesferreira@gmail.com / 21971409830 🇧🇷
+- Como me contatar: Gmail = lucasjoserodriguesferreira@gmail.com / 21971409830 🇧🇷
 
 <!---
 lucasjose2702/lucasjose2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
