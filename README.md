@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasjose2702 Atualmente estou cursando Sistema de Informações, me aprofundando cada vez mais na área de software, dedicado a aprender e crescer em um ambiente desafiador, contribuindo com minhas habilidades técnicas e minha paixão pelo desenvolvimento de software para o sucesso da equipe e da organização.
+<h3>- 👋 Hi, I’m @lucasjose2702 Atualmente estou cursando Sistema de Informações, me aprofundando cada vez mais na área de software, dedicado a aprender e crescer em um ambiente desafiador, contribuindo com minhas habilidades técnicas e minha paixão pelo desenvolvimento de software para o sucesso da equipe e da organização.<h3>
 
 . HABILIDADES<br>
 . Conhecimento em HTML5/ CSS3<br>
