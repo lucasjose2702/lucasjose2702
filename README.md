@@ -1,4 +1,4 @@
-- Olá, eu sou o Lucas Ferreira! Atualmente estou cursando Sistema de Informações, me aprofundando cada vez mais na área de software, dedicado a aprender e crescer em um ambiente desafiador, contribuindo com minhas habilidades técnicas e minha paixão pelo desenvolvimento de software para o sucesso da equipe e da organização.
+- Olá, eu sou o Lucas Ferreira! Atualmente cursando Sistema de Informações, me aprofundando cada vez mais na área de software, dedicado a aprender e crescer em um ambiente desafiador, contribuindo com minhas habilidades técnicas e soft skills para o sucesso da equipe e da organização.
 
 . HABILIDADES<br>
 . Conhecimento em HTML5/ CSS3<br>
