@@ -32,13 +32,13 @@ Atualmente faço estágio no setor de suporte de TI e ajudo na parte administrat
 ## 🤝 Conecte-se comigo
 
 <p>
-  <a href="https://github.com/[lucasjose2702]">
+  <a href="https://github.com/lucasjose2702">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:[lucasjoserodriguesferreira@gmail.com]">
+  <a href="mailto:lucasjoserodriguesferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/[lucas-ferreiraljrf]">
+  <a href="https://linkedin.com/in/lucas-ferreiraljrf">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
