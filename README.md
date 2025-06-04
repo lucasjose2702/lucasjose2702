@@ -38,7 +38,7 @@ Atualmente faço estágio no setor de suporte de TI e ajudo na parte administrat
   <a href="https://linkedin.com/in/lucas-ferreiraljrf">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <br>#Gmail: lucasjoserodriguesferreira@gmail.com
+  <br>Gmail: lucasjoserodriguesferreira@gmail.com
 </p>
 
 ---
