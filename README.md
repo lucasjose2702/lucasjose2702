@@ -8,6 +8,7 @@
 . Python<br> 
  Excel, Google sheets e automação de tarefas com python<br> 
 . Sistema Operacionais: Windows, IOS, Linux (Usando atualmente | Unity version = 23.04).<br>
+. Inglês Cursano (Intermediário)<br>
 
 - Como me contatar: Gmail = lucasjoserodriguesferreira@gmail.com / 21995007481 🇧🇷
 
