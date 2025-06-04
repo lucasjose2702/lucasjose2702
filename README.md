@@ -7,7 +7,7 @@
 . Python<br> 
 . MYSQL (SQL) Basico<br>
 . Wordpress<br>
- Excel, Google sheets e automação de tarefas com python<br> 
+. Excel, Google sheets e automação de tarefas com python<br> 
 . Sistema Operacionais: Windows, IOS, Linux (Usando atualmente | Unity version = 23.04).<br>
 . Inglês Cursano (Intermediário)<br>
 
