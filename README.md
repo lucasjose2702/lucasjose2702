@@ -2,11 +2,11 @@
 
 . HABILIDADES<br>
 . Conhecimento em HTML5/ CSS3<br>
-. C (Basico)
+. C (Basico)<br>
 . JavaScript (Node) Basico<br>
-. Wordpress<br>
-. MYSQL (SQL) Basico<br>
 . Python<br> 
+. MYSQL (SQL) Basico<br>
+. Wordpress<br>
  Excel, Google sheets e automação de tarefas com python<br> 
 . Sistema Operacionais: Windows, IOS, Linux (Usando atualmente | Unity version = 23.04).<br>
 . Inglês Cursano (Intermediário)<br>
