@@ -2,15 +2,14 @@
 
 . HABILIDADES<br>
 . Conhecimento em HTML5/ CSS3<br>
-. JavaScript<br>
+. JavaScript (Node) Basico<br>
 . Wordpress<br>
-. MYSQL<br>
-. C# e ASP.NET<br>
+. MYSQL (SQL) Basico<br>
 . Python<br> 
  Excel, Google sheets e automação de tarefas com python<br> 
 . Sistema Operacionais: Windows, IOS, Linux (Usando atualmente | Unity version = 23.04).<br>
 
-- Como me contatar: Gmail = lucasjoserodriguesferreira@gmail.com / 21971409830 🇧🇷
+- Como me contatar: Gmail = lucasjoserodriguesferreira@gmail.com / 21995007481 🇧🇷
 
 <!---
 lucasjose2702/lucasjose2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
