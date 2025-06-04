@@ -2,6 +2,7 @@
 
 . HABILIDADES<br>
 . Conhecimento em HTML5/ CSS3<br>
+. C (Basico)
 . JavaScript (Node) Basico<br>
 . Wordpress<br>
 . MYSQL (SQL) Basico<br>
